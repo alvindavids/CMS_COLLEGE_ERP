@@ -1,0 +1,6 @@
+{
+  "name": "CMS College ERP",
+  "description": "A comprehensive College ERP system for CMS College of Science and Commerce, Chinnavedampatty, Coimbatore, featuring portals for students, teachers, and admins to manage academics, view hall tickets, subjects, and records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
